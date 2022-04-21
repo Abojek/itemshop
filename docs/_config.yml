@@ -30,10 +30,10 @@ discordChannelID: 964925597031739392
 # 
 # siteNav:
 #   - name: Lista Inwestorów
-#     url: listainwestorow
+#     url: map
 #     newtab: true
 #   - name: Galeria
-#     url: galeria
+#     url: screenshots
 #   - name: About
 #     url: about
 

@@ -5,7 +5,7 @@ navname: Galeria waszych zdjęć z serwera
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">
 
-# Screenshots
+# Galeria waszych zdjęć z serwera 
 
 {% assign imagenum = 0 %}
 

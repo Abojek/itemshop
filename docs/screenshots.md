@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: Screenshots
+navname: Galeria waszych zdjęć z serwera 
 ---
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">

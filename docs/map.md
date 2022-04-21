@@ -1,6 +1,6 @@
 ---
 layout: redirect
-navname: Inwestorzy
+navname: map
 ---
 
 # Osoby, które nas wsparły:

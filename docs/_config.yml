@@ -29,11 +29,11 @@ discordChannelID: 964925597031739392
 # #   newtab - Whether link should open in new tab
 # 
 # siteNav:
-#   - name: Server Map
-#     url: map
+#   - name: Lista Inwestorów
+#     url: listainwestorow
 #     newtab: true
-#   - name: Screenshots
-#     url: screenshots
+#   - name: Galeria
+#     url: galeria
 #   - name: About
 #     url: about
 

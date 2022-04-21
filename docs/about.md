@@ -15,6 +15,7 @@ Chcemy doprowadzić do tego, aby rozgrywka była jak najbardziej zbalansowana, p
 # Kontakt
 
 Discord serwer: https://discord.gg/mAvRSWxBUK
+
 Wlasciciel PV: Abojek#2256
 
 

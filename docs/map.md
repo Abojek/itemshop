@@ -3,7 +3,7 @@ layout: redirect
 navname: map
 ---
 
-# Osoby, które nas wsparły:
+# Osoby, ktore nas wsparły:
 
 
 

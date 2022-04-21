@@ -10,7 +10,7 @@ cellLinks:
 
   - cname: Galeria
     curl: screenshots
-    cimage: media/demo03.jpg
+    cimage: media/wagony.jpg
 
   - cname: Donate
     curl: donate

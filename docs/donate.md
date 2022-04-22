@@ -1,4 +1,6 @@
 ---
 layout: redirect
-tourl: https://ko-fi.com/
+tourl: https://tipply.pl/u/AXOLAND
+
+
 ---

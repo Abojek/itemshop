@@ -11,9 +11,9 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Projekt Survival
+serverName: AxoLand
 serverDescription: Projekt serwera idealnego!
-serverIP: kaportodebil.pl
+serverIP: AxoLand.pl
 useBedrockForOnlineStatus: false
 
 

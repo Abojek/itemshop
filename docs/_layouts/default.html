@@ -88,8 +88,7 @@ layout: compress
 
     {{ content }}
 
-    <div class="layoutfooter w-full pb-8 text-center transition duration-200">
-        &middot; 
+    <div class="layoutfooter w-full pb-8 text-center transition duration-200"> 
         <a href="{% if site.siteFooterlink %}{{ site.baseurl }}{{ site.siteFooterlink }}{% else %}{{ site.baseurl }}/about{% endif %}" rel="noopener" title="Opis/Kontakt" class="hover:text-gray-400">&copy; {{ site.siteYear }}<script>new Date().getFullYear()>{{ site.siteYear }}&&document.write("&#8208;"+new Date().getFullYear());</script> {{ site.serverName }} &middot; About/Contact</a>
     </div>
 

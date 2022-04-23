@@ -18,6 +18,7 @@ Discord serwer: https://discord.gg/mAvRSWxBUK
 
 Discord PV:
 Wlasciciel 1: Abojek#2256
+
 Wlasciciel 2: KuBa KB#2143 
 
 
